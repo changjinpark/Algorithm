@@ -46,3 +46,4 @@
 ##### [6-11 수들의 조합 (2021-05-05)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/6-11.py)
 ##### [6-14 인접행렬 (2021-05-05)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/6-14.py)
 ##### [6-15 경로탐색(그래프 DFS) (2021-05-05)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/6-15.py)
+##### [7-1 최대점수 구하기 (2021-05-09)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-1.py)
