@@ -1,6 +1,3 @@
-/*
-자연수 N이 입력되면 1부터 N까지의 소수의 개수를 출력하는 프로그램을 작성하세요.
-*/
 import java.util.*;
 
 public class Main205 {
