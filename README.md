@@ -47,4 +47,5 @@
 ##### [6-14 인접행렬 (2021-05-05)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/6-14.py)
 ##### [6-15 경로탐색(그래프 DFS) (2021-05-05)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/6-15.py)
 ##### [7-1 최대점수 구하기 (2021-05-09)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-1.py)
-##### [7-2 휴가 (2021-05-09)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-2.py) -> 나중에 다시 플어보기
+##### [7-2 휴가 (2021-05-09)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-2.py)
+##### [7-3 양팔저울 (2021-05-09)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-3.py)
