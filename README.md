@@ -50,3 +50,4 @@
 ##### [7-2 휴가 (2021-05-09)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-2.py)
 ##### [7-3 양팔저울 (2021-05-09)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-3.py)
 ##### [7-4 동전바꿔주기 (2021-05-13)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-4.py)
+##### [7-5 동전분배하기 (2021-05-14)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-5.py)
