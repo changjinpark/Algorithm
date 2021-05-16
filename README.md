@@ -52,3 +52,4 @@
 ##### [7-4 동전바꿔주기 (2021-05-13)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-4.py)
 ##### [7-5 동전분배하기 (2021-05-14)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-5.py)
 ##### [7-6 알파코드 (2021-05-15)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-6.py)
+##### [7-7 송아지 찾기 (2021-05-16)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-7.py)
