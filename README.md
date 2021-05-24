@@ -61,3 +61,4 @@
 ##### [7-13 섬나라 아일랜드 (2021-05-19)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-13.py)
 ##### [7-14 안전영역 (2021-05-20)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-14.py)
 ##### [7-15 토마토 (2021-05-21)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-15.py)
+##### [7-16 사다리타기 (2021-05-24)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/7-16.py)
