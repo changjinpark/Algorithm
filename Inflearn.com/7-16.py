@@ -1,8 +1,10 @@
 import sys
 def DFS(L):
+    global switch
+    if switch == 1: return
     if L[0] == 0:
         print(L[1])
-        sys.exit(0)
+        switch = 1
     else:
         for i in range(3):
             x = L[0] + dx[i]
@@ -12,6 +14,7 @@ def DFS(L):
                 DFS((x,y))
 
 if __name__ == "__main__":
+    switch = 0
     board = [list(map(int, input().split())) for _ in range(10)]
     dx = [0, 0, -1]
     dy = [-1, 1, 0]
