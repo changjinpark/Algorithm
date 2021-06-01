@@ -68,3 +68,4 @@
 ##### [8-3 돌다리 건너기 Bottom-Up (2021-05-28)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-3.py)
 ##### [8-4 최대부분증가수열 (2021-05-29)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-4.py)
 ##### [8-5 최대 선 연결하기 (2021-05-31)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-5.py)
+##### [8-7 알리바바와 40인의 도둑 Bottom-Up (2021-06-01)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-7.py)
