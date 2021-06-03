@@ -70,3 +70,4 @@
 ##### [8-5 최대 선 연결하기 (2021-05-31)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-5.py)
 ##### [8-7 알리바바와 40인의 도둑 Bottom-Up (2021-06-01)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-7.py)
 ##### [8-8 알리바바와 40인의 도둑 Top-Down (2021-06-02)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-8.py)
+##### [8-6 6. 가장 높은 탑 쌓기(LIS 응용) (2021-06-03)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-6.py)
