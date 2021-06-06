@@ -73,3 +73,4 @@
 ##### [8-6. 가장 높은 탑 쌓기(LIS 응용) (2021-06-03)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-6.py)
 ##### [8-9 가방문제(냅색 알고리즘) (2021-06-04)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-9.py)
 ##### [8-10 동전교환 (2021-06-05)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-10.py)
+##### [5-1 가장 큰 수 (2021-06-06)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-1.py)
