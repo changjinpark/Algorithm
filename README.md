@@ -74,3 +74,4 @@
 ##### [8-9 가방문제(냅색 알고리즘) (2021-06-04)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-9.py)
 ##### [8-10 동전교환 (2021-06-05)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-10.py)
 ##### [5-1 가장 큰 수 (2021-06-06)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-1.py)
+##### [5-2 쇠막대기 (2021-06-07)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-2.py)
