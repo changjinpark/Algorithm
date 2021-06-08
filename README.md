@@ -75,3 +75,4 @@
 ##### [8-10 동전교환 (2021-06-05)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/8-10.py)
 ##### [5-1 가장 큰 수 (2021-06-06)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-1.py)
 ##### [5-2 쇠막대기 (2021-06-07)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-2.py)
+##### [5-4 후위식 연산 (2021-06-08)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-4.py)
