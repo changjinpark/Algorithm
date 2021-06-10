@@ -77,3 +77,4 @@
 ##### [5-2 쇠막대기 (2021-06-07)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-2.py)
 ##### [5-4 후위식 연산 (2021-06-08)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-4.py)
 ##### [5-5 공주 구하기 (2021-06-09)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-5.py)
+##### [5-6 응급실 (2021-06-10)](https://github.com/changjinpark/Algorithm/blob/main/Inflearn.com/5-6.py)
