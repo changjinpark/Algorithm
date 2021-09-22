@@ -8,7 +8,7 @@ for i in range(len(n)):
         if n[i-1] == '(':
             stack.pop()
             sum += len(stack)
-        elif n[i] == ')':
+        elif n[i-1] == ')':
             stack.pop()
             sum += 1
 print(sum)

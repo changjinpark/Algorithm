@@ -3,7 +3,7 @@ n = list(map(int, str(n)))
 stack = []
 
 for x in n:
-    while stack and m > 0 and stack[-1] < x:
+    while stack and stack[-1] < x and m > 0:
         stack.pop()
         m -= 1
     stack.append(x)
