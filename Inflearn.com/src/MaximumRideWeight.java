@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class maximumRideWeight {
+public class MaximumRideWeight {
 
     private static int limit, n, answer = Integer.MIN_VALUE;
     private static int[] dogWeight;
