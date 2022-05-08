@@ -19,10 +19,10 @@ public class Main {
         ans = new int[M];
         //System.out.println(N);
         //System.out.println(M);
-        solution(0, 1);
+        solution(0);
     }
 
-    private static void solution(int L, int start) {
+    private static void solution(int L) {
         if (L == M) {
             for (int a : ans) {
                 System.out.print(a + " ");
@@ -30,9 +30,13 @@ public class Main {
             System.out.println();
             return;
         }
-        for (int i = start; i <= N; i++) {
-            ans[L] = i;
-            solution(L+1, i+1);
+        for (int i = 1; i <= N; i++) {
+            if (visited[i] == 0 && (L == 0 || ans[L-1] < i)) {
+                visited[i] = 1;
+                ans[L] = i;
+                solution(L+1);
+                visited[i] = 0;
+            }
         }
     }
 }
