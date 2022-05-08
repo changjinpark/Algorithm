@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 public class Main {
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static int k;
-    private static char[] A = new char[10];
+    private static List<Character> A = new ArrayList<>();
     private static String minResult = "";
     private static String maxResult = "";
     private static int[] visited = new int[10];
@@ -18,7 +18,7 @@ public class Main {
 
         StringTokenizer st = new StringTokenizer(br.readLine());
         for (int i = 0; i < k; i++) {
-            A[i] = st.nextToken().charAt(0);
+            A.add(st.nextToken().charAt(0));
         }
         //System.out.println(A);
 
@@ -37,11 +37,12 @@ public class Main {
             else {
                 maxResult = s;
             }
+            return;
         }
 
         for (int i = 0; i < 10; i++) {
             if (visited[i] == 1) continue;
-            if (L == 0 || check(Character.getNumericValue(s.charAt(L-1)), A[L-1], i)) {
+            if (L == 0 || check(Character.getNumericValue(s.charAt(L-1)), A.get(L-1), i)) {
                 visited[i] = 1;
                 solution(L+1, s+i);
                 visited[i] = 0;
