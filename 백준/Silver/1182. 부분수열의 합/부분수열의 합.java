@@ -3,10 +3,8 @@ import java.util.StringTokenizer;
 
 public class Main {
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    private static int n, s, cnt, k;
+    private static int n, s, cnt;
     private static int[] arr;
-    private static boolean[] visited;
-    private static StringBuilder sb;
 
     public static void main(String[] args) throws IOException {
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -20,37 +18,25 @@ public class Main {
             arr[i] = Integer.parseInt(st.nextToken());
         }
 
-        k = n;
-        while (k > 0) {
-            visited = new boolean[n];
-            dfs(0, 0);
-            k -= 1;
-        }
+        dfs(0, 0);
 
-        System.out.println(cnt);
+        if (s == 0) {
+            System.out.println(cnt-1);
+        }
+        else {
+            System.out.println(cnt);
+        }
     }
 
-    private static void dfs(int L, int start) {
-        if (L == k) {
-            int tmp = 0;
-            for (int i = 0; i < n; i++) {
-                if (visited[i]) {
-                    tmp += arr[i];
-                }
-            }
-
-            if (tmp == s) {
+    private static void dfs(int L, int sum) {
+        if (L == n) {
+            if (sum == s) {
                 cnt += 1;
             }
             return;
         }
 
-        for (int i = start; i < n; i++) {
-            if (!visited[i]) {
-                visited[i] = true;
-                dfs(L+1, i+1);
-                visited[i] = false;
-            }
-        }
+        dfs(L+1, sum+arr[L]);
+        dfs(L+1, sum);
     }
 }
